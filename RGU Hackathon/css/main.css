@@ -763,7 +763,7 @@ width: 25px !important ;
 .containerfull .btn10 {
   position: absolute;
   top: 45%;
-  left: 45%;
+  left: 55%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #fffff;
@@ -789,33 +789,5 @@ height: 25px !important ;
 width: 25px !important ; 
 }
 
-/* Style the button 11 and place it in the middle of the container/image */
-.containerfull .btn11 {
-  position: absolute;
-  top: 70%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  background-color: #fffff;
-  opacity: 0.8 ; 
-  color: white;
-  font-size: 16px;
-  padding: 8px 16px;
-  border: none;
-  cursor: pointer;
-  border-radius: 10px;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-}
 
-.containerfull .btn11:hover {
-  background-color: white;
-}
-
-
-.containerfull .btn11:img { 
-height: 25px !important ; 
-width: 25px !important ; 
-}
 
