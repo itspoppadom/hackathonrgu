@@ -527,7 +527,7 @@ width: 2
 /* Style the button 3 and place it in the middle of the container/image */
 .containerfull .btn3 {
   position: absolute;
-  top: 60;
+  top: 60%;
   left: 33%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
