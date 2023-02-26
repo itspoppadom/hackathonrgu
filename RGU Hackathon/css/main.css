@@ -527,8 +527,8 @@ width: 2
 /* Style the button 3 and place it in the middle of the container/image */
 .containerfull .btn3 {
   position: absolute;
-  top: 55%;
-  left: 25%;
+  top: 60;
+  left: 33%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #fffff;
@@ -562,7 +562,7 @@ width: 25px;
 /* Style the button 4 and place it in the middle of the container/image */
 .containerfull .btn4 {
   position: absolute;
-  top: 50%;
+  top: 53%;
   left: 30%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -593,7 +593,7 @@ width: 25px;
 ============= Map Image and Buttons =====================================
 */
 
-/* Style the button 4 and place it in the middle of the container/image */
+/* Style the button 5 and place it in the middle of the container/image */
 .containerfull .btn5 {
   position: absolute;
   top: 27%;
@@ -627,7 +627,7 @@ width: 25px;
 ============= Map Image and Buttons =====================================
 */
 
-/* Style the button 4 and place it in the middle of the container/image */
+/* Style the button 6 and place it in the middle of the container/image */
 .containerfull .btn6 {
   position: absolute;
   top: 52%;
@@ -661,7 +661,7 @@ width: 25px;
 ============= Map Image and Buttons =====================================
 */
 
-/* Style the button 4 and place it in the middle of the container/image */
+/* Style the button 7 and place it in the middle of the container/image */
 .containerfull .btn7 {
   position: absolute;
   top: 52%;
