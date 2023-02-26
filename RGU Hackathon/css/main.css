@@ -411,7 +411,7 @@ nav a:hover {
 ============= Map Image and Buttons =====================================
 */
 /* Container needed to position the button. Adjust the width as needed */
-/*.containerfull {
+.containerfull {
   position: relative;
   width: 80%;
 }
@@ -448,10 +448,9 @@ nav a:hover {
 
 
 .containerfull .btn2 img { 
-height: 25px ; 
-width: 2
-5px; 
-} */ 
+height: 25px !important; 
+width: 25px !important; 
+} 
 /* CSS Code for the tool tip to show up.*/ 
 /* Add this attribute to the element that needs a tooltip */
 [data-tooltip] {
@@ -550,8 +549,8 @@ width: 2
 
 
 .containerfull .btn3 img { 
-height: 25px ; 
-width: 25px; 
+height: 25px !important ; 
+width: 25px !important; 
 }
 
 
@@ -585,8 +584,8 @@ width: 25px;
 
 
 .containerfull .btn4 img { 
-height: 25px ; 
-width: 25px; 
+height: 25px !important ; 
+width: 25px !important ; 
 }
 
 /* =========================================================================
@@ -619,8 +618,8 @@ width: 25px;
 
 
 .containerfull .btn5 img { 
-height: 25px ; 
-width: 25px; 
+height: 25px !important ; 
+width: 25px !important ; 
 }
 
 /* =========================================================================
@@ -653,8 +652,8 @@ width: 25px;
 
 
 .containerfull .btn6 img { 
-height: 25px ; 
-width: 25px; 
+height: 25px !important ; 
+width: 25px !important ; 
 }
 
 /* =========================================================================
@@ -717,6 +716,6 @@ width: 25px;
 
 
 .containerfull .btn8 img { 
-height: 25px ; 
-width: 25px; 
+height: 25px !important; 
+width: 25px !important; 
 }
