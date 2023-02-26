@@ -719,3 +719,8 @@ width: 25px;
 height: 25px !important; 
 width: 25px !important; 
 }
+
+boxhead a {
+color: #FFFFFF;
+text-decoration: none;
+}
