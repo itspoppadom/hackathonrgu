@@ -728,3 +728,33 @@ text-decoration: none;
 #title { 
     color: white; 
 }
+
+/* Style the button 9 and place it in the middle of the container/image */
+.containerfull .btn9 {
+  position: absolute;
+  top: 27%;
+  left: 62%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #fffff;
+  opacity: 0.8 ; 
+  color: white;
+  font-size: 16px;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.containerfull .btn9:hover {
+  background-color: white;
+}
+
+
+.containerfull .btn9 img { 
+height: 25px !important ; 
+width: 25px !important ; 
+}
