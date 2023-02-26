@@ -724,3 +724,7 @@ boxhead a {
 color: #FFFFFF;
 text-decoration: none;
 }
+
+#title { 
+    color: white; 
+}
