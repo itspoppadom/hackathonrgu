@@ -732,7 +732,7 @@ text-decoration: none;
 /* Style the button 9 and place it in the middle of the container/image */
 .containerfull .btn9 {
   position: absolute;
-  top: 20%;
+  top: 55%;
   left: 15%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -762,8 +762,8 @@ width: 25px !important ;
 /* Style the button 10 and place it in the middle of the container/image */
 .containerfull .btn10 {
   position: absolute;
-  top: 27%;
-  left: 62%;
+  top: 45%;
+  left: 45%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #fffff;
@@ -792,8 +792,8 @@ width: 25px !important ;
 /* Style the button 11 and place it in the middle of the container/image */
 .containerfull .btn11 {
   position: absolute;
-  top: 27%;
-  left: 62%;
+  top: 70%;
+  left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #fffff;
