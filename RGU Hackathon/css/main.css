@@ -411,11 +411,11 @@ nav a:hover {
 ============= Map Image and Buttons =====================================
 */
 /* Container needed to position the button. Adjust the width as needed */
-.containerfull {
+/*.containerfull {
   position: relative;
   width: 80%;
 }
-
+ 
 /* Make the image responsive */
 .containerfull img {
   width: 100%;
@@ -451,7 +451,7 @@ nav a:hover {
 height: 25px ; 
 width: 2
 5px; 
-}
+} */ 
 /* CSS Code for the tool tip to show up.*/ 
 /* Add this attribute to the element that needs a tooltip */
 [data-tooltip] {
