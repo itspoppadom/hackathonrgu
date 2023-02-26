@@ -732,8 +732,8 @@ text-decoration: none;
 /* Style the button 9 and place it in the middle of the container/image */
 .containerfull .btn9 {
   position: absolute;
-  top: 55%;
-  left: 15%;
+  top: 50%;
+  left: 10%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #fffff;
