@@ -720,10 +720,7 @@ height: 25px !important;
 width: 25px !important; 
 }
 
-boxhead a {
-color: #FFFFFF;
-text-decoration: none;
-}
+
 
 #title { 
     color: white; 
@@ -789,5 +786,7 @@ height: 25px ;
 width: 25px ; 
 }
 
-
+#logo :  { 
+    color: #666 ;
+}
 
