@@ -1,3 +1,4 @@
 # hackathonrgu
 # Hackathon RGU Interactive Map 
-# these website's use software to detect bots / weird activity 
+# RGU Assigned my team and I, a challenge of creating an interactive map
+# in this repository you will find the HTML code, CSS and the graphic's we used. 
